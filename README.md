@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="top-right" alt="logo code">
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo code">
 
 <p align="left"> 
  🖖 Olá, meu nome é Jeferson Franco Silva. Sou <strong>desenvolvedor</strong>.
