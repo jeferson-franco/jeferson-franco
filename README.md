@@ -22,7 +22,7 @@
  - ⚡ Curiosidade: <strong>ciclista 🚴 e bjj-purple-belt 🥋</strong> ...
 </p>
 
-<br>
+***
 
 ### 💼 Ferramentas e Tecnologias<br>
 <p align="left">
@@ -37,7 +37,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40"/>
 </p>
 
-<br>
+***
 
 ### ☕ Sigo aprendendo e melhorando<br>
 <p align="left">
@@ -50,7 +50,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
 </p>
 
-<br>
+***
 
 ### ☎️ Contatos<br>
 <p align="left">
