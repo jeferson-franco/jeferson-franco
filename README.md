@@ -1,3 +1,11 @@
+![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+<a href="https://github.com/jeferson-franco">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-franco&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo code">
 
 ## Olá, me chamo <strong>Jeferson</strong> !<br>
@@ -58,15 +66,4 @@
     <img src="https://img.shields.io/badge/-Whatsapp-6610F2?style=for-the-badge&logo=Whatsapp&logoColor=FFFFFF&link=https://api.whatsapp.com/send?phone=5511966200991"/>
   </a>
 </p>
-
-<br>
-
-<div>
-<a href="https://github.com/jeferson-franco">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-franco&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
-<br>
- 
-![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
