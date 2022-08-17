@@ -8,23 +8,21 @@
 
 <img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo code">
 
-## Olá, me chamo <strong>Jeferson</strong> !<br>
-### Bem vindo ao meu perfil GitHub 👋
+## <strong>Hello</strong> there!<br>
+### Welcome to my GitHub 👋
 
 <p align="left"> 
- - 🔭 Trabalho na <strong>KeepTrue ⏩</strong> ...<br>
- - 🌱 Estou aprendendo <strong>const mind = [deTudoUmPouco]</strong> ...<br>
- - 👯 Colaboro em <strong>{'many':'project'}</strong> ...<br>
- - 🤔 Busco ajuda com <strong>const{type}=require('contacts')</strong> ...<br>
- - 💬 Pergunte-me sobre <strong>{'any'🎱'thing'}</strong> ...<br>
- - 📫 Como entrar em contato comigo: <strong>[click below 👇]</strong> ...<br>
- - 😄 Pronomes: <strong>ele/dele 🤵‍♂️</strong> ...<br>
- - ⚡ Curiosidade: <strong>ciclista 🚴 e bjj-purple-belt 🥋</strong> ...
+ - Currently working at <strong>KeepTrue ⏩</strong> <br>
+ - 🌱 Learning <strong>consistently</strong><br>
+ - 👯 Open to contribute on <strong>open-source</strong> projects<br>
+ - 💬 Ask me <strong>anything</strong><br>
+ - 📫 How to contact me: <strong>[click below 👇]</strong><br>
+ - ⚡ Curiosity: <strong>ciclist 🚴 and bjj purple-belt 🥋</strong>
 </p>
 
 ***
 
-### 💼 Ferramentas e Tecnologias<br>
+### 💼 Tools and Techs<br>
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -39,7 +37,7 @@
 
 ***
 
-### ☕ Sigo aprendendo e melhorando<br>
+### ☕ Let's have a coffee<br>
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
@@ -52,7 +50,7 @@
 
 ***
 
-### ☎️ Contatos<br>
+### ☎️ Find me here:<br>
 <p align="left">
   <a href="https://t.me/jeferson-franco" alt="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-6610F2?style=for-the-badge&logo=Telegram&logoColor=FFFFFF&link=https://t.me/jeferson-franco"/>
