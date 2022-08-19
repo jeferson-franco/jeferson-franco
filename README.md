@@ -35,7 +35,6 @@
 
 <div>
 <img src="NzhwuCk9_male_2_cartoon26.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-presentation">
-<img src="fneW3bSP_male_2_cartoon3.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-jamesbond">
 <img src="fneW3bSP_male_2_cartoon6.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-peace">
 <img src="fneW3bSP_male_2_cartoon15.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-scientist">
 <img src="fneW3bSP_male_2_cartoon13.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-ironman">
