@@ -25,16 +25,20 @@
   <a href="https://t.me/jeferson-franco" alt="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-6610F2?style=for-the-badge&logo=Telegram&logoColor=FFFFFF&link=https://t.me/jeferson-franco"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/jefersonfranco/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jefersonfranco/"/>
   </a>
-  
   <a href="https://api.whatsapp.com/send?phone=5511966200991" alt="Whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-6610F2?style=for-the-badge&logo=Whatsapp&logoColor=FFFFFF&link=https://api.whatsapp.com/send?phone=5511966200991"/>
   </a>
 </p>
- 
-<img src="ilus-code.svg" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon">
+
+<div>
+<img src="NzhwuCk9_male_2_cartoon26.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-presentation">
+<img src="fneW3bSP_male_2_cartoon3.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-jamesbond">
+<img src="fneW3bSP_male_2_cartoon6.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-peace">
+<img src="fneW3bSP_male_2_cartoon15.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-scientist">
+<img src="fneW3bSP_male_2_cartoon13.png" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon-ironman">
+</div>
 
 ![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
