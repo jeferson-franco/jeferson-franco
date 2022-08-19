@@ -24,9 +24,6 @@
 
 <div dir="auto">
   <a href="https://github.com/jeferson-franco"></a>
- <a href="https://t.me/jeferson-franco" alt="jefe-telegram">
-    <img style="max-width: 100%;" src="https://img.shields.io/badge/-Telegram-6610F2?style=for-the-badge&logo=Telegram&logoColor=FFFFFF&link=https://t.me/jeferson-franco">
-  </a>
   <a href="https://www.linkedin.com/in/jefersonfranco/" alt="jefe-linkedin">
     <img style="max-width: 100%;" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jefersonfranco/">
   </a>
