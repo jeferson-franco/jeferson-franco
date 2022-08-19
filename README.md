@@ -35,6 +35,6 @@
   </a>
 </p>
  
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="cartoon">
+<img src="ilus-code.svg" min-width="120em" max-width="120em" width="120em" align="right" alt="cartoon">
 
 ![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
