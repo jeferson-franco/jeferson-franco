@@ -1,5 +1,11 @@
 ## <strong>Hello there, be welcome! 👋</strong>
 
+#### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Web Developer</a> from Brazil.</strong>
+
+#### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a>.</strong>
+
+#### <strong>📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a>.</strong>
+
 <div align="center" dir="auto">
   <a href="https://github.com/jeferson-franco">
     <img height="150em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=jeferson-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
