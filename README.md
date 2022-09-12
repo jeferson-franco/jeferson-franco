@@ -1,4 +1,4 @@
-## <strong>Hello there, welcome to my GitHub! 👋</strong>
+## <strong>Hello there, be welcome! 👋</strong>
 
 <div align="center" dir="auto">
   <a href="https://github.com/jeferson-franco">
