@@ -4,7 +4,7 @@
 
 #### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a>.</strong>
 
-#### <strong>I have private and public repositories, feel free to check them out! 😁</strong>
+#### <strong>I have private and public repos, feel free to check them out! 😁</strong>
 
 #### <strong>📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a>.</strong>
 
