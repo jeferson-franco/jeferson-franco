@@ -1,6 +1,6 @@
 ## <strong>Hello there, be welcome! 👋</strong>
 
-#### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil.</strong>
+#### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
 
 #### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a>.</strong>
 
