@@ -2,9 +2,9 @@
 
 #### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
 
-#### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a>.</strong>
+#### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a> among others.</strong>
 
-#### <strong>I have private and public repos, feel free to check'em out! 😁</strong>
+#### <strong>Here you have private and public repos, feel free to check'em out! 😁</strong>
 
 #### <strong>📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a>.</strong>
 
@@ -39,6 +39,6 @@
     <img style="max-width: 100%;" src="https://img.shields.io/badge/-Whatsapp-6610F2?style=for-the-badge&logo=Whatsapp&logoColor=FFFFFF&link=https://api.whatsapp.com/send?phone=5511966200991">
   </a>
 
-  ![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
 
+</div>
