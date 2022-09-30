@@ -1,5 +1,7 @@
 ## <strong>Hello there, be welcome! 👋</strong>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+Developer;Python+Developer;Front-end+Developer;Back-end+Developer;Business+relations+know-how;Consistently+learning+smth+new)](https://git.io/typing-svg)
+
 #### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
 
 #### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a> among others.</strong>
