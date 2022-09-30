@@ -1,6 +1,6 @@
 ## <strong>Hello there, be welcome! 👋</strong>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+Developer;Python+Developer;Front-end+Developer;Back-end+Developer;Business+relations+know-how;Consistently+learning+smth+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+Developer;Python+Developer;Front-end+Developer;Back-end+Developer;Still+learning+everyday;Ask+me+smth...;...or+buy+me+a+coffee+😁)](https://git.io/typing-svg)
 
 #### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
 
