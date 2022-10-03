@@ -1,6 +1,6 @@
-## <strong>Hello there, be welcome! 👋</strong>
+## <strong>Hi there, welcome to my repo! 👋</strong>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+Developer;Python+Developer;Front-end+Developer;Back-end+Developer;Still+learning+everyday;Ask+me+smth...;...or+buy+me+a+coffee+😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Python;PHP;Node;HTML+and+CSS;MongoDB+and+SQL;Learning+lil+bit+everyday;Let's+chat...;...or+buy+me+a+coffee+😁)](https://github.com/jeferson-franco)
 
 #### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
 
