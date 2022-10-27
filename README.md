@@ -1,6 +1,6 @@
 ## <strong>Hello, welcome to my repo! 👋</strong>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Python;HTML/CSS;PHP;Node.js;MongoDB;Plus+10y+working+experience;Working+remotely+since+2019;Passionate+for+challenges;Virtual+content+collector;Purple+belt+jiu-jitsu;For+more+info,+let's+chat+😁)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Python;HTML/CSS;PHP/MySQL;Node.js/MongoDB;Plus+10y+working+experience;Working+remotely+since+2019;Passionate+for+challenges;Virtual+content+collector;Purple+belt+jiu-jitsu;For+more+info,+let's+chat+😁)](https://github.com/jeferson-franco)
 
 #### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
 
@@ -25,6 +25,7 @@
     <img alt="jefe-html" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img alt="jefe-css" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
     <img alt="jefe-php" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <img alt="jefe-mysql" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
     <img alt="jefe-node" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img alt="jefe-mongo" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img alt="jefe-cartoon" height="150" style="max-width: 100%;" align="right" src="NzhwuCk9_male_2_cartoon26.png"/>
