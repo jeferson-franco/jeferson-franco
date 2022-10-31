@@ -44,6 +44,8 @@
 
 ![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
 
+## <strong>📚 My VSCode path</strong>
+
 ![Waka vscode](https://wakatime.com/share/@328ec2d1-7a5b-47b2-8ff2-1d3c2f9fa1a9/ae7a4b23-a486-4c32-9402-e4147d7dfac8.svg)
 
 </div>
