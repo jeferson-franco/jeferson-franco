@@ -1,8 +1,8 @@
-## <strong>Hello, welcome! Olá, bem-vindo! 👋</strong>
+## <strong>Hello, welcome! // Olá, bem-vindo! 👋</strong>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Node.js;MongoDB;Python;PHP;MySQL;Unit+tests+//+Testes+unitários;WordPress;Oracle+EBS;SAP;Microservices+//+Micro-serviços;JIRA;Git;Project+Management+//+Gestão+de+projetos;Excel;Process+Development+//+Desenvolvimento+de+processos;For+more+info,+let's+chat+//+Partiu+trocar+ideias+😁)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Node.js;MongoDB;Python;PHP;MySQL;Unit+tests+//+Testes+unitários;WordPress;Oracle+EBS;SAP;Microservices+//+Micro-serviços;JIRA;Git;Project+Management+//+Gestão+de+projetos;Excel;Process+Development+//+Desenvolvimento+de+processos;Multilingual+Customer+Support+//+Atendimento+ao+cliente+poliglota;For+more+info,+let's+chat+//+Partiu+trocar+ideias+😁)](https://github.com/jeferson-franco)
 
-#### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://www.linkedin.com/in/jefersonfranco/">Developer</a> from Brazil. 🔰</strong>
+#### <strong>My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer">Developer</a></strong> // Meu nome é Jeferson Franco e sou desenvolvedor
 
 #### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a> among others.</strong>
 
