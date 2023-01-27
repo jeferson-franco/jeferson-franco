@@ -6,7 +6,7 @@
 
 #### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript">JavaScript</a> among other languages, mainly focused on delivering better results everyday. // Neste momento trabalho e estudo com Javascript e outras linguagens, com foco em entregar o melhor resultado dia após dia.
 
-#### 📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a> and sorry, no other social media available
+#### 📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a> and sorry, no other social media available // Só tenho LinkedIn e nada mais, desculpe
 
 <div align="center" dir="auto">
   <a href="https://github.com/jeferson-franco">
