@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Node.js;MongoDB;Python;PHP;MySQL;Unit+tests+//+Testes+unitários;WordPress;Oracle+EBS;SAP;Microservices+//+Micro-serviços;JIRA;Git;Project+Management+//+Gestão+de+projetos;Excel;Process+Development+//+Desenvolvimento+de+processos;Multilingual+Customer+Support+//+Atendimento+ao+cliente+poliglota;For+more+info,+let's+chat+//+Partiu+trocar+ideias+😁)](https://github.com/jeferson-franco)
 
-#### My name is <a href="https://www.linkedin.com/in/jefersonfranco/" target="_blank" rel="noopener noreferrer">Jeferson Franco</a> and I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer" target="_blank" rel="noopener noreferrer">Developer</a> // Me chamo Jeferson Franco e sou desenvolvedor
+#### It may not seem like it, but I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer" target="_blank" rel="noopener noreferrer">Developer</a> // Pode não parecer, mas sou desenvolvedor
 
 #### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript" target="_blank" rel="noopener noreferrer">JavaScript</a> among other languages, mainly focused on delivering better results everyday. // Neste momento trabalho e estudo com Javascript e outras linguagens, com foco em entregar o melhor resultado dia após dia.
 
