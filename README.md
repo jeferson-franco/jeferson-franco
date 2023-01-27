@@ -1,4 +1,4 @@
-## <strong>Hello, welcome! // Olá, bem-vindo! 👋</strong>
+## Hello, welcome! // Olá, bem-vindo! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;Node.js+🧩;MongoDB+📂;Unit+tests+🧪;WordPress+📰;Microservices+⚙️;Project+Mgmt+📦;Excel+📊;Process+Devt+🚀;Multilingual+🗽;Let's+chat+😁)](https://github.com/jeferson-franco)
 
@@ -37,7 +37,7 @@
 
 ![Snake animation](https://github.com/jeferson-franco/jeferson-franco/blob/output/github-contribution-grid-snake.svg)
 
-## <strong>📚 My VSCode path</strong>
+## VSCode WakaTime
 
 ![Waka vscode](https://wakatime.com/share/@328ec2d1-7a5b-47b2-8ff2-1d3c2f9fa1a9/ae7a4b23-a486-4c32-9402-e4147d7dfac8.svg)
 
