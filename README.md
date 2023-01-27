@@ -4,7 +4,7 @@
 
 #### My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer">Developer</a> // Meu nome é Jeferson Franco e sou desenvolvedor
 
-#### <strong>📚 I'm currently learning <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.python.org/">Python</a> among others.</strong>
+#### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript">JavaScript</a> and <a href="https://roadmap.sh/python">Python</a> among other programming languages. // Neste momento trabalho e estudo com Javascript, Python e algumas outras linguagens de programação.
 
 #### <strong>Here you have ~~private and~~ public repos, feel free to check'em out! 😁</strong>
 
