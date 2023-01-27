@@ -1,6 +1,6 @@
 ## <strong>Hello, welcome! // Olá, bem-vindo! 👋</strong>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Node.js;MongoDB;Python;PHP;MySQL;Unit+tests+//+Testes+unitários;WordPress;Oracle+EBS;SAP;Microservices+//+Micro-serviços;JIRA;Git;Project+Management+//+Gestão+de+projetos;Excel;Process+Development+//+Desenvolvimento+de+processos;Multilingual+Customer+Support+//+Atendimento+ao+cliente+poliglota;For+more+info,+let's+chat+//+Partiu+trocar+ideias+😁)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Node.js;MongoDB;Python;PHP;MySQL;Unit+tests+//+Testes+unitários;WordPress;Oracle+EBS;SAP;Microservices+//+Micro-serviços;JIRA;Git;Project+Mgmt+//+Gestão+de+projetos;Excel;Process+Devt+//+Desenv+processos;Multilingual+Support+//+Atendimento+poliglota;Let's+chat+//+Bora+trocar+ideia+😁)](https://github.com/jeferson-franco)
 
 #### It may not seem like it, but I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer" target="_blank" rel="noopener noreferrer">Developer</a> // Pode não parecer, mas sou desenvolvedor
 
