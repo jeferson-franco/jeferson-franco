@@ -4,11 +4,9 @@
 
 #### My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer">Developer</a> // Meu nome é Jeferson Franco e sou desenvolvedor
 
-#### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript">JavaScript</a> among other languages, mainly focused on delivering quality results. // Neste momento trabalho e estudo com Javascript e algumas outras linguagens, mas sigo focado em entregar resultados de qualidade.
+#### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript">JavaScript</a> among other languages, mainly focused on delivering better results everyday. // Neste momento trabalho e estudo com Javascript e algumas outras linguagens, mas sigo focado em entregar o melhor resultado dia após dia.
 
-#### <strong>Here you have ~~private and~~ public repos, feel free to check'em out! 😁</strong>
-
-#### <strong>📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a>.</strong>
+#### 📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a> and sorry, no other social media available
 
 <div align="center" dir="auto">
   <a href="https://github.com/jeferson-franco">
