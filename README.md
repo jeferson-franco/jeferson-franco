@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;Node.js;MongoDB;Python;PHP;MySQL;Unit+tests+//+Testes+unitários;WordPress;Oracle+EBS;SAP;Microservices+//+Micro-serviços;JIRA;Git;Project+Management+//+Gestão+de+projetos;Excel;Process+Development+//+Desenvolvimento+de+processos;Multilingual+Customer+Support+//+Atendimento+ao+cliente+poliglota;For+more+info,+let's+chat+//+Partiu+trocar+ideias+😁)](https://github.com/jeferson-franco)
 
-#### My name is <a href="https://www.linkedin.com/in/jefersonfranco/">Jeferson Franco</a> and I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer">Developer</a> // Me chamo Jeferson Franco e sou desenvolvedor
+#### My name is <a href="https://www.linkedin.com/in/jefersonfranco/" target="_blank">Jeferson Franco</a> and I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer" target="_blank">Developer</a> // Me chamo Jeferson Franco e sou desenvolvedor
 
-#### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript">JavaScript</a> among other languages, mainly focused on delivering better results everyday. // Neste momento trabalho e estudo com Javascript e outras linguagens, com foco em entregar o melhor resultado dia após dia.
+#### 📚 I'm currently learning and working with <a href="https://roadmap.sh/javascript" target="_blank">JavaScript</a> among other languages, mainly focused on delivering better results everyday. // Neste momento trabalho e estudo com Javascript e outras linguagens, com foco em entregar o melhor resultado dia após dia.
 
-#### 📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/">LinkedIn</a> and sorry, no other social media available // Só tenho LinkedIn e nada mais, desculpe
+#### 📫 How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/" target="_blank">LinkedIn</a> and sorry, no other social media available // Só tenho LinkedIn e nada mais, desculpe
 
 <div align="center" dir="auto">
   <a href="https://github.com/jeferson-franco">
