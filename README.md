@@ -7,6 +7,11 @@
     <br>
     <img alt="jefe-aws" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
     <img alt="jefe-angular" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+    <img alt="jefe-azure" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+    <img alt="jefe-bootstrap" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    <img alt="jefe-canva" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+    <img alt="jefe-chrome" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+    <img alt="jefe-css" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img alt="jefe-js" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img alt="jefe-node" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img alt="jefe-mongo" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
