@@ -5,16 +5,16 @@
 <a href="https://github.com/jeferson-franco">
   <div dir="auto">
     <br>
-    <img alt="jefe-aws" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-    <img alt="jefe-angular" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-    <img alt="jefe-azure" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-    <img alt="jefe-bootstrap" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    <img alt="jefe-canva" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-    <img alt="jefe-chrome" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
-    <img alt="jefe-css" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img alt="jefe-js" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img alt="jefe-node" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img alt="jefe-mongo" height="40" width="50" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img alt="jefe-aws" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img alt="jefe-angular" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+    <img alt="jefe-azure" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+    <img alt="jefe-bootstrap" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    <img alt="jefe-canva" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+    <img alt="jefe-chrome" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+    <img alt="jefe-css" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img alt="jefe-js" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img alt="jefe-node" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img alt="jefe-mongo" height="50" width="60" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img alt="jefe-cartoon" height="150" style="max-width: 100%;" align="right" src="NzhwuCk9_male_2_cartoon26.png"/>
   </div>
   <h2 dir="auto"></h2>
