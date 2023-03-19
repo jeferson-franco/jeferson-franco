@@ -5,8 +5,8 @@
 <a href="https://github.com/jeferson-franco">
   <div dir="auto">
     <br>
-    <img alt="jefe-aws" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-    <img alt="jefe-angular" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg"/>
+    <img alt="jefe-aws" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img alt="jefe-angular" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
     <img alt="jefe-js" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img alt="jefe-node" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img alt="jefe-mongo" height="30" width="40" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
