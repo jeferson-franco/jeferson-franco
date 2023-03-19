@@ -1,12 +1,6 @@
-## Hello, welcome! // Olá, bem-vindo! 👋
+## JFS repo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;Node.js+🧩;MongoDB+📂;Unit+tests+🧪;WordPress+📰;Microservices+⚙️;Project+Mgmt+📦;Excel+📊;Process+Devt+🚀;Multilingual+🗽;Let's+chat+😁)](https://github.com/jeferson-franco)
-
-#### It may not seem like it, but I'm a <a href="https://en.wikipedia.org/wiki/Software_development#Software_developer" target="_blank" rel="noopener noreferrer">Developer</a> // Pode não parecer, mas sou desenvolvedor
-
-#### I'm currently learning and working with <a href="https://roadmap.sh/javascript" target="_blank" rel="noopener noreferrer">JavaScript</a> among other languages, mainly focused on delivering better results everyday. // Neste momento trabalho e estudo com Javascript e outras linguagens, com foco em entregar o melhor resultado dia após dia.
-
-#### How to reach me: <a href="https://www.linkedin.com/in/jefersonfranco/" target="_blank" rel="noopener noreferrer">LinkedIn</a> and sorry, no other social media available // Só tenho LinkedIn e nada mais, desculpe
 
 <a href="https://github.com/jeferson-franco">
   <div dir="auto">
