@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;Node.js+🧩;MongoDB+📂;Unit+tests+🧪;WordPress+📰;Microservices+⚙️;Project+Mgmt+📦;Excel+📊;Process+Devt+🚀;Multilingual+🗽;Let's+chat+😁)](https://github.com/jeferson-franco)
 
-<a href="https://github.com/jeferson-franco">
+<a href="https://www.linkedin.com/in/jefersonfranco/">
   <div dir="auto">
     <br>
     <img alt="jeferson-knows-anaconda" height="70" width="80" style="max-width: 100%;" align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"/>
