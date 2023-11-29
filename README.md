@@ -1,3 +1,5 @@
+<img src="./qrcode.png" alt="qrcode-whatsapp" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## JFS repo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;Node.js+🧩;MongoDB+📂;Unit+tests+🧪;WordPress+📰;Microservices+⚙️;Project+Mgmt+📦;Excel+📊;Process+Devt+🚀;Multilingual+🗽;Let's+chat+😁)](https://github.com/jeferson-franco)
