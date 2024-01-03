@@ -1,4 +1,4 @@
-<img src="./qrcode.png" alt="qrcode-whatsapp" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./qrcode.svg" alt="qrcode-whatsapp" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## welcome to <strong>JFS</strong> repo
 
@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,react,sass,materialui,vite,nodejs,gcp,git,kubernetes,docker,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=css,docker,figma,gcp,git,html,jest,js,kubernetes,linux,materialui,md,mongodb,mysql,nextjs,nginx,nodejs,php,postman,py,react,regex,sass,stackoverflow,ts,vercel,vscode,wordpress&perline=6" />
   </a>
 </p>
 
