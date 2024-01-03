@@ -2,7 +2,7 @@
 
 ## welcome to <strong>JFS</strong> repo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;React+⚛️;Node.js+🧩;MongoDB+📂;Microservices+⚙️;Business+📊;Agile+🚀;Multilingual+🗽;Let's+chat+😁)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;React+⚛️;Node.js+🧩;MongoDB+📂;Microservices+⚙️;Business+📊;Agile+🚀;Multilingual+🗽;Talk+to+me+😁;Scan+QR+Code+🔎)](https://github.com/jeferson-franco)
 
 - exploring new technologies to enhance best performance on developing my own solutions
 - actually working as **mashup developer** at <a href="https://www.mtrix.com.br/en/">Mtrix</a>
