@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+🎯;React+⚛️;Node.js+🧩;MongoDB+📂;Microservices+⚙️;Business+📊;Agile+🚀;Multilingual+🗽;Talk+to+me+😁;Scan+QR+Code+🔎)](https://github.com/jeferson-franco)
 
-- exploring new technologies to enhance best performance on developing my own solutions
-- actually working as **mashup developer** at <a href="https://www.mtrix.com.br/en/">Mtrix</a>
+- exploring new technologies to enhance best performance on developing solutions on demand
+- actually working as **front-end mashup qlik developer** @ <a href="https://www.mtrix.com.br/en/">Mtrix</a>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,docker,figma,gcp,git,html,jest,js,kubernetes,linux,materialui,md,mongodb,mysql,nextjs,nginx,nodejs,php,postman,py,react,regex,sass,ts,vercel,vscode,wordpress&perline=6" />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,babel,bash,bootstrap,bots,css,discord,django,docker,figma,gcp,git,github,githubactions,gmail,heroku,html,jest,jquery,js,kubernetes,linkedin,linux,materialui,maven,md,mongodb,mysql,netlify,nextjs,nodejs,php,postgres,postman,powershell,py,r,react,regex,sass,sqlite,stackoverflow,styledcomponents,svg,tailwind,ts,vercel,vim,vite,vscode,vue,wordpress&perline=6&theme=light" alt="anaconda, aws, azure, babel, bash, bootstrap, bots, css, discord, django, docker, figma, gcp, git, github, githubactions, gmail, heroku, html, jest, jquery, js, kubernetes, linkedin, linux, materialui, maven, md, mongodb, mysql, netlify, nextjs, nodejs, php, postgres, postman, powershell, py, r, react, regex, sass, sqlite, stackoverflow, styledcomponents, svg, tailwind, ts, vercel, vim, vite, vscode, vue, wordpress"/>
   </a>
 </p>
 
