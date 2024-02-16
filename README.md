@@ -1,4 +1,4 @@
-<img src="./qrcode.svg" alt="qrcode-linkedin" min-width="400px" max-width="400px" width="400px" align="right" onerror="this.onerror=null; this.src='./qrcode.png';">
+<img src="./qrcode.png" alt="qrcode-linkedin" min-width="400px" max-width="400px" width="400px" align="right" onerror="this.onerror=null; this.src='./qrcode.svg';">
 
 ## welcome to <strong>JFS</strong> repo
 
