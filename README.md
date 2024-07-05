@@ -1,15 +1,24 @@
-<img src="./qrcode.png" alt="qrcode-linkedin" min-width="400px" max-width="400px" width="400px" align="right" onerror="this.onerror=null; this.src='./qrcode.svg';">
+## Welcome to my Github
 
-## welcome to <strong>JFS</strong> repo
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=React;Node.js;Python;English;Spanish;Portuguese;Scan+QR+Code;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript;React;Node.js;Python;Multilingual;Scan+QR+Code;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
+Experienced Full Stack Developer with over 4 years of experience in front-end development. Proficient in building scalable web applications using modern JavaScript frameworks like React and Vue. Skilled in responsive design, performance optimization, and implementing robust development processes. Adept at mentoring junior developers and improving operational efficiency.
 
-- exploring new technologies to enhance best performance on developing solutions on demand
-- actually working as **front-end mashup qlik developer** @ <a href="https://www.mtrix.com.br/en/">Mtrix</a>
+###### SKILLS
+
+- Proficient: JavaScript, React, CSS, RESTful, APIs, Git, Responsive Design, Testing Frameworks, CI/CD Pipelines.
+- Intermediate: Vue, Python, Node.js, MongoDB, TypeScript, Yarn.
+- Beginner: Docker, Kubernetes, YAML, PHP, C#, C++, Java.
+
+###### CONTACT
+
+- WhatsApp|Telegram: 55 (11)-966200991
+- Email: jefersonfranco@pm.me
+- CV: https://drive.google.com/file/d/1anxyhvW_aCSH9Op7bOuxGxX40uvcL1S3/view?usp=sharing
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,babel,bash,bootstrap,bots,css,discord,django,docker,figma,gcp,git,github,githubactions,gmail,heroku,html,jest,jquery,js,kubernetes,linkedin,linux,materialui,maven,md,mongodb,mysql,netlify,nextjs,nodejs,php,postgres,postman,powershell,py,r,react,regex,sass,sqlite,stackoverflow,styledcomponents,svg,tailwind,ts,vercel,vim,vite,vscode,vue,wordpress&perline=7&theme=light" alt="skill-icons" title="anaconda, aws, azure, babel, bash, bootstrap, bots, css, discord, django, docker, figma, gcp, git, github, githubactions, gmail, heroku, html, jest, jquery, js, kubernetes, linkedin, linux, materialui, maven, md, mongodb, mysql, netlify, nextjs, nodejs, php, postgres, postman, powershell, py, r, react, regex, sass, sqlite, stackoverflow, styledcomponents, svg, tailwind, ts, vercel, vim, vite, vscode, vue, wordpress"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,css,docker,figma,gcp,git,github,githubactions,html,jest,jquery,js,kubernetes,linux,materialui,md,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,styledcomponents,svg,tailwind,ts,vercel,vite,vscode,vue&perline=7&theme=light" alt="skill-icons" title="aws, azure, bootstrap, css, docker, figma, gcp, git, github, githubactions, html, jest, jquery, js, kubernetes, linux, materialui, md, mongodb, mysql, nodejs, php, postgres, postman, py, react, sass, styledcomponents, svg, tailwind, ts, vercel, vite, vscode, vue"/>
   </a>
 </p>
 
@@ -18,6 +27,8 @@
   <a href="https://www.linkedin.com/in/jefersonfranco/" alt="jefe-linkedin">
     <img style="max-width: 100%;" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jefersonfranco/">
   </a>
+
+<img src="./qrcode.png" alt="qrcode-linkedin" min-width="200px" max-width="200px" width="200px" align="center" onerror="this.onerror=null; this.src='./qrcode.svg';">
 
 ## VSCode WakaTime
 
