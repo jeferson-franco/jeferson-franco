@@ -18,7 +18,7 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,css,docker,figma,gcp,git,github,githubactions,html,jest,jquery,js,kubernetes,linux,materialui,md,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,styledcomponents,svg,tailwind,ts,vercel,vite,vscode,vue&perline=3&theme=light" alt="skill-icons" title="aws, azure, bootstrap, css, docker, figma, gcp, git, github, githubactions, html, jest, jquery, js, kubernetes, linux, materialui, md, mongodb, mysql, nodejs, php, postgres, postman, py, react, sass, styledcomponents, svg, tailwind, ts, vercel, vite, vscode, vue"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,css,docker,figma,gcp,git,github,githubactions,html,jest,jquery,js,kubernetes,linux,materialui,md,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,styledcomponents,svg,tailwind,ts,vercel,vite,vscode,vue&perline=6&theme=light" alt="skill-icons" title="aws, azure, bootstrap, css, docker, figma, gcp, git, github, githubactions, html, jest, jquery, js, kubernetes, linux, materialui, md, mongodb, mysql, nodejs, php, postgres, postman, py, react, sass, styledcomponents, svg, tailwind, ts, vercel, vite, vscode, vue"/>
   </a>
 </p>
 
