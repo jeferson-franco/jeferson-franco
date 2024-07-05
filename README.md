@@ -18,7 +18,7 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,css,docker,figma,gcp,git,github,githubactions,html,jest,jquery,js,kubernetes,linux,materialui,md,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,styledcomponents,svg,tailwind,ts,vercel,vite,vscode,vue&perline=7&theme=light" alt="skill-icons" title="aws, azure, bootstrap, css, docker, figma, gcp, git, github, githubactions, html, jest, jquery, js, kubernetes, linux, materialui, md, mongodb, mysql, nodejs, php, postgres, postman, py, react, sass, styledcomponents, svg, tailwind, ts, vercel, vite, vscode, vue"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,css,docker,figma,gcp,git,github,githubactions,html,jest,jquery,js,kubernetes,linux,materialui,md,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,styledcomponents,svg,tailwind,ts,vercel,vite,vscode,vue&perline=9&theme=light" alt="skill-icons" title="aws, azure, bootstrap, css, docker, figma, gcp, git, github, githubactions, html, jest, jquery, js, kubernetes, linux, materialui, md, mongodb, mysql, nodejs, php, postgres, postman, py, react, sass, styledcomponents, svg, tailwind, ts, vercel, vite, vscode, vue"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
     <img style="max-width: 100%;" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jefersonfranco/">
   </a>
 
-<img src="./qrcode.png" alt="qrcode-linkedin" min-width="200px" max-width="200px" width="200px" align="center" onerror="this.onerror=null; this.src='./qrcode.svg';">
+<img src="./qrcode.png" alt="qrcode-linkedin" min-width="200px" max-width="200px" width="200px" align="left" onerror="this.onerror=null; this.src='./qrcode.svg';">
 
 ## VSCode WakaTime
 
