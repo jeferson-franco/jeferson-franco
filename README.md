@@ -32,6 +32,64 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
     <img style="max-width: 100%;" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jefersonfranco/">
   </a>
 
-<img src="./qrcode.png" alt="qrcode-linkedin" min-width="200px" max-width="200px" width="200px" align="left" onerror="this.onerror=null; this.src='./qrcode.svg';">
+<img src="./qrcode.png" alt="qrcode-linkedin" min-width="100px" max-width="100px" width="100px" align="justify-content" onerror="this.onerror=null; this.src='./qrcode.svg';">
+
+## TIOBE Index for June 2023 vs June 2024
+
+| Jun 2024 | Jun 2023 | Change | Programming Language | Ratings | Change |
+| -------- | -------- | ------ | -------------------- | ------- | ------ |
+| 1        | 1        |        | Python               | 15.39%  | +2.93% |
+| 2        | 3        | Up     | C++                  | 10.03%  | -1.33% |
+| 3        | 2        | Down   | C                    | 9.23%   | -3.14% |
+| 4        | 4        |        | Java                 | 8.40%   | -2.88% |
+| 5        | 5        |        | C#                   | 6.65%   | -0.06% |
+| 6        | 7        | Up     | JavaScript           | 3.32%   | +0.51% |
+| 7        | 14       | Up↑    | Go                   | 1.93%   | +0.93% |
+| 8        | 9        | Up     | SQL                  | 1.75%   | +0.28% |
+| 9        | 6        | Down   | Visual Basic         | 1.66%   | -1.67% |
+| 10       | 15       | Up↑    | Fortran              | 1.53%   | +0.53% |
+| 11       | 11       |        | Delphi/Object Pascal | 1.52%   | +0.27% |
+| 12       | 19       | Up↑    | Swift                | 1.27%   | +0.33% |
+| 13       | 10       | Down   | Assembly language    | 1.26%   | -0.03% |
+| 14       | 12       | Down   | MATLAB               | 1.26%   | +0.14% |
+| 15       | 8        | Down↓  | PHP                  | 1.22%   | -0.52% |
+| 16       | 13       | Down   | Scratch              | 1.17%   | +0.15% |
+| 17       | 20       | Up     | Rust                 | 1.17%   | +0.26% |
+| 18       | 18       |        | Ruby                 | 1.11%   | +0.17% |
+| 19       | 29       | Up↑    | Kotlin               | 1.01%   | +0.50% |
+| 20       | 22       | Up     | COBOL                | 0.96%   | +0.22% |
+
+| Position | Programming Language | Ratings |
+| -------- | -------------------- | ------- |
+| 21       | R                    | 0.96%   |
+| 22       | SAS                  | 0.92%   |
+| 23       | Dart                 | 0.89%   |
+| 24       | Prolog               | 0.80%   |
+| 25       | Ada                  | 0.80%   |
+| 26       | D                    | 0.75%   |
+| 27       | Perl                 | 0.69%   |
+| 28       | Classic Visual Basic | 0.62%   |
+| 29       | Haskell              | 0.59%   |
+| 30       | (Visual) FoxPro      | 0.57%   |
+| 31       | Scala                | 0.54%   |
+| 32       | Lua                  | 0.51%   |
+| 33       | Julia                | 0.48%   |
+| 34       | GAMS                 | 0.45%   |
+| 35       | ML                   | 0.44%   |
+| 36       | Lisp                 | 0.44%   |
+| 37       | Objective-C          | 0.44%   |
+| 38       | Transact-SQL         | 0.40%   |
+| 39       | VBScript             | 0.36%   |
+| 40       | ABAP                 | 0.33%   |
+| 41       | PowerShell           | 0.33%   |
+| 42       | Scheme               | 0.32%   |
+| 43       | Bash                 | 0.32%   |
+| 44       | Logo                 | 0.29%   |
+| 45       | LabVIEW              | 0.27%   |
+| 46       | F#                   | 0.27%   |
+| 47       | Solidity             | 0.27%   |
+| 48       | Awk                  | 0.27%   |
+| 49       | PL/SQL               | 0.26%   |
+| 50       | TypeScript           | 0.26%   |
 
 </div>
