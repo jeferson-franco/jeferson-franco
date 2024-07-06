@@ -92,4 +92,6 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
 | 49       | PL/SQL               | 0.26%   |
 | 50       | TypeScript           | 0.26%   |
 
+> NOTES: according to TIOBE, Python remains absolute as the best strategic decision about what programming language to be adopted when starting to build a new software system. It is followed by JavaScript, supposedly supported by its frameworks like React and Node. We can also see Go with consistent raise ratio. Swift has a seat on best-rising-language club, but in terms of mobile, Kotlin steals the show raising about ten positions at once. Good to learn while the time is still right.
+
 </div>
