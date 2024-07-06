@@ -26,7 +26,7 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
 
 ![Waka vscode](https://wakatime.com/share/@328ec2d1-7a5b-47b2-8ff2-1d3c2f9fa1a9/ae7a4b23-a486-4c32-9402-e4147d7dfac8.svg)
 
-<img src="./qrcode.png" alt="qrcode-linkedin" min-width="100rem" max-width="100rem" width="100rem" align="right" onerror="this.onerror=null; this.src='./qrcode.svg';">
+<img src="./qrcode.png" alt="qrcode-linkedin" min-width="100rem" max-width="100rem" width="100rem" align="left" onerror="this.onerror=null; this.src='./qrcode.svg';">
 
 <div dir="auto">
   <a href="https://github.com/jeferson-franco"></a>
