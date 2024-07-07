@@ -100,6 +100,10 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
 
 Source: [tiobe.com/tiobe-index](https://www.tiobe.com/tiobe-index/)
 
-> NOTES: according to TIOBE webscrapped data, Python remains absolute as the best strategic decision about what programming language to be adopted when starting to build a new software system. It is followed by JavaScript, supposedly supported by its frameworks like React and Node. We can also see Go with consistent raise ratio. Swift has a seat on best-rising-language club, but in terms of mobile, Kotlin steals the show raising about ten positions at once. These languages are all good to learn while the time is still right.
+> NOTES: according to TIOBE webscrapped data, Python remains absolute as the best strategic decision about what programming language to be adopted when starting to build a new software system. It is followed by JavaScript, supposedly supported by its frameworks like React and Node. We can also see Go with consistent raise ratio. Swift has a seat on best-rising-language club, but in terms of mobile native languages, Kotlin steals the show raising about ten positions at once. These languages are all good to learn while the time is still right.
+
+```txt
+//TODO: learn Go and Kotlin, while improves Python and Javascript through its most-used frameworks like React and Node.
+```
 
 </div>
