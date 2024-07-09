@@ -14,7 +14,8 @@ Experienced Full Stack Developer with over 4 years of experience in front-end de
 
 - WhatsApp|Telegram: 55 (11)-966200991
 - Email: jefersonfranco@pm.me
-- CV: https://drive.google.com/file/d/1anxyhvW_aCSH9Op7bOuxGxX40uvcL1S3/view?usp=sharing
+- CV in English: https://drive.google.com/file/d/1anxyhvW_aCSH9Op7bOuxGxX40uvcL1S3/view?usp=sharing
+- CV in Portuguese: https://drive.google.com/file/d/1bCgItRUd2pDsp1Y2VEQpDXnEp4apMcVC/view?usp=sharing
 
 <p align="left">
   <a href="https://skillicons.dev">
