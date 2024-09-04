@@ -2,20 +2,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=React;Node.js;Python;English;Spanish;Portuguese;Scan+QR+Code;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
-Experienced Full Stack Developer with over 4 years of experience in front-end development. Proficient in building scalable web applications using modern JavaScript frameworks like React and Vue. Skilled in responsive design, performance optimization, and implementing robust development processes. Adept at mentoring junior developers and improving operational efficiency.
+#### PROFESSIONAL SUMMARY
 
-###### SKILLS
+Results-oriented Senior Front-End Developer with over 4 years of experience, specializing in front-end development using modern JavaScript frameworks like React and Vue. Proven track record of enhancing user satisfaction by 20% and improving web application performance by up to 30%. Currently serving as a technical interviewer at Mtrix, contributing to the recruitment and development of a skilled technical team. Lead internationalization projects using i18n.js, in collaboration with Qlik developers, ensuring seamless global user experience. Skilled in XML, Markdown, and prompt engineering since the first publick launch of ChatGPT in Brazil, enabling efficient content formatting and AI interaction. Demonstrated ability to maintain the integrity of mission-critical services, particularly in dynamic environments where continuity and stability are paramount. Fluent in English, Spanish, and Portuguese, committed to driving business results through innovative technology.
 
-- Proficient: JavaScript, React, CSS, RESTful, APIs, Git, Responsive Design, Testing Frameworks, CI/CD Pipelines.
-- Intermediate: Vue, Python, Node.js, MongoDB, TypeScript, Yarn.
-- Beginner: Docker, Kubernetes, YAML, PHP, C#, C++, Java.
+#### SKILLS
 
-###### CONTACT
+• Front-End Technologies: React, Vue, JavaScript, HTML, CSS, Responsive Design.
+• Back-End Technologies: Node.js, Python, RESTful APIs, Express.js, Flask.
+• Development Practices: CI/CD Pipelines, Agile Methodologies, Jest, Mocha.
+• Cloud & DevOps: Kubernetes, GCP, Docker.
+• Version Control: Git, GitHub, GitLab.
+• Content Formats: XML, Markdown.
+• Databases: MongoDB, PostgreSQL, MySQL.
+• Other Languages: TypeScript, PHP, C#, C++, Java.
+• Tools: Datadog, Qlik.
 
-- WhatsApp|Telegram: 55 (11)-966200991
-- Email: jefersonfranco@pm.me
-- CV in English: https://drive.google.com/file/d/1anxyhvW_aCSH9Op7bOuxGxX40uvcL1S3/view?usp=sharing
-- CV in Portuguese: https://drive.google.com/file/d/1bCgItRUd2pDsp1Y2VEQpDXnEp4apMcVC/view?usp=sharing
+#### CONTACT
+
+WhatsApp | Telegram: +55 11 96620 0991
+Email: jefersonfranco@protonmail.com | jfranco.adm@gmail.com
+English CV: https://drive.google.com/file/d/14NYaOuke01_lPm-0gLicJoBoxcSHkPns/view?usp=sharing
 
 <p align="left">
   <a href="https://skillicons.dev">
