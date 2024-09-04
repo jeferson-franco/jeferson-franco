@@ -1,6 +1,6 @@
 ## Welcome to my Github
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=React;Node.js;Python;English;Spanish;Portuguese;Scan+QR+Code;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=React;Node.js;Python;English;Spanish;Portuguese;Scan+QR+Code+below;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
 #### PROFESSIONAL SUMMARY
 
