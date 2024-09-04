@@ -8,21 +8,21 @@ Results-oriented Senior Front-End Developer with over 4 years of experience, spe
 
 #### SKILLS
 
-• Front-End Technologies: React, Vue, JavaScript, HTML, CSS, Responsive Design.
-• Back-End Technologies: Node.js, Python, RESTful APIs, Express.js, Flask.
-• Development Practices: CI/CD Pipelines, Agile Methodologies, Jest, Mocha.
-• Cloud & DevOps: Kubernetes, GCP, Docker.
-• Version Control: Git, GitHub, GitLab.
-• Content Formats: XML, Markdown.
-• Databases: MongoDB, PostgreSQL, MySQL.
-• Other Languages: TypeScript, PHP, C#, C++, Java.
-• Tools: Datadog, Qlik.
+- **Front-End Technologies**: React, Vue, JavaScript, HTML, CSS, Responsive Design.
+- **Back-End Technologies**: Node.js, Python, RESTful APIs, Express.js, Flask.
+- **Development Practices**: CI/CD Pipelines, Agile Methodologies, Jest, Mocha.
+- **Cloud & DevOps**: Kubernetes, GCP, Docker.
+- **Version Control**: Git, GitHub, GitLab.
+- **Content Formats**: XML, Markdown.
+- **Databases**: MongoDB, PostgreSQL, MySQL.
+- **Other Languages**: TypeScript, PHP, C#, C++, Java.
+- **Tools**: Datadog, Qlik.
 
 #### CONTACT
 
-WhatsApp | Telegram: +55 11 96620 0991
-Email: jefersonfranco@protonmail.com | jfranco.adm@gmail.com
-English CV: https://drive.google.com/file/d/14NYaOuke01_lPm-0gLicJoBoxcSHkPns/view?usp=sharing
+- **WhatsApp | Telegram**: +55 11 96620 0991
+- **Email**: jefersonfranco@protonmail.com | jfranco.adm@gmail.com
+- **English CV**: https://drive.google.com/file/d/14NYaOuke01_lPm-0gLicJoBoxcSHkPns/view?usp=sharing
 
 <p align="left">
   <a href="https://skillicons.dev">
