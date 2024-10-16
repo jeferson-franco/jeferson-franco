@@ -1,29 +1,33 @@
-## Welcome to my Github
+# Welcome to my Github
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=React;Node.js;Python;English;Spanish;Portuguese;Scan+QR+Code+below;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
-#### PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
-Senior Front-End Developer with 4+ years of experience and over 10 years in B2B. Proven leadership in multi-squad teams, delivering scalable, user-centric solutions to boost business performance. Expertise in ReactJS, NodeJS, and JavaScript, with strong API integration, GCP, and agile methodology skills. Successful in implementing strategic initiatives using cutting-edge technologies, improving business outcomes. Skilled in Qlik dashboard creation for Mtrix products, providing multilingual solutions. Proficient in Bitbucket, Azure DevOps, and pySpark, optimizing workflows and enhancing operational efficiency. Fluent in English, Spanish, and Portuguese, committed to innovation and results-driven technology solutions.
+Senior Full-Stack Engineer with 4+ years of hands-on experience in ReactJS and NodeJS, and over 10 years in B2B environments. Proven track record in leading multi-squad teams and delivering scalable, user-centric solutions. Expert in JavaScript, TypeScript, and RESTful API integration. Skilled in cloud technologies (GCP) and agile methodologies. Fluent in English, Spanish, and Portuguese.
 
-#### SKILLS
+## SKILLS
 
 Proficient:
--	**Languages & Frameworks**: ReactJS, NodeJS, JavaScript.
--	**Cloud & DevOps**: Git, Bitbucket, Azure DevOps.
--	**Database & Tools**: JSON, XML, Markdown.
+-	**Languages & Frameworks**: ReactJS, NodeJS, JavaScript, TypeScript.
+-	**Front-End**: HTML5, CSS3, Redux, React Hooks.
+-	**Back-End**: ExpressJS, RESTful APIs, MongoDB, PostgreSQL.
+-	**Cloud & DevOps**: GCP, Git, Bitbucket, Azure DevOps, Docker, K8S.
 Intermediate:
--	**Languages & Frameworks**: TypeScript, Qlik, PySpark, Python.
--	**Cloud & DevOps**: GCP, Docker, Kubernetes (K8S).
--	**Database & Tools**: MongoDB, PostgreSQL.
+-	**Languages & Frameworks**: Qlik, PySpark, Python, Agile, Leadership.
 Beginner:
 -	**Languages & Frameworks**: VueJS, AngularJS, .NET, C#, C++, Java.
 
+## LANGUAGES
 
-#### CONTACT
+English: Advanced, allocated 1 year in Georgia, USA.
+Spanish: Advanced, allocated 1 year in Bolivia and Peru.
+Portuguese: Native.
 
-+55 11 96620 0991 (Brazil)
-jefersonfranco@pm.me | jfranco.adm@gmail.com
+## CONTINUOUS LEARNING
+
+Actively pursuing advanced certifications in React and Node.js ecosystems to stay at the
+forefront of full-stack development technologies.
 
 <p align="left">
   <a href="https://skillicons.dev">
