@@ -8,14 +8,16 @@ Senior Full-Stack Engineer with 4+ years of hands-on experience in ReactJS and N
 
 ## SKILLS
 
-Proficient:
+### Proficient:
 -	**Languages & Frameworks**: ReactJS, NodeJS, JavaScript, TypeScript.
 -	**Front-End**: HTML5, CSS3, Redux, React Hooks.
 -	**Back-End**: ExpressJS, RESTful APIs, MongoDB, PostgreSQL.
 -	**Cloud & DevOps**: GCP, Git, Bitbucket, Azure DevOps, Docker, K8S.
-Intermediate:
+
+### Intermediate:
 -	**Languages & Frameworks**: Qlik, PySpark, Python, Agile, Leadership.
-Beginner:
+
+### Beginner:
 -	**Languages & Frameworks**: VueJS, AngularJS, .NET, C#, C++, Java.
 
 ## LANGUAGES
