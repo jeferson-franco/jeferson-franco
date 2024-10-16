@@ -20,9 +20,9 @@ Beginner:
 
 ## LANGUAGES
 
-English: Advanced, allocated 1 year in Georgia, USA.
-Spanish: Advanced, allocated 1 year in Bolivia and Peru.
-Portuguese: Native.
+- **English**: Advanced, allocated 1 year in Georgia, USA.
+- **Spanish**: Advanced, allocated 1 year in Bolivia and Peru.
+- **Portuguese**: Native.
 
 ## CONTINUOUS LEARNING
 
