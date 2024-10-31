@@ -70,7 +70,7 @@ Currently, I'm working on enterprise-scale applications with an emphasis on perf
   </a>
 </div>
 
-Let's connect and discuss how we can leverage technology to solve complex business challenges!
+> Let's connect and discuss how we can leverage technology to solve complex business challenges!
 
 <p align="left">
   <a href="https://skillicons.dev">
