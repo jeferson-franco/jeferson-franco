@@ -2,31 +2,44 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish;Brazilian+Portuguese+native+speaker+;Scan+QR+Code;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
-## PROFESSIONAL SUMMARY
-Senior Full-Stack Engineer with over 4 years of experience in ReactJS and NodeJS, and more than a decade in B2B environments. Combines strong technical expertise with AI-assisted development practices. Proven ability to lead multi-squad teams and deliver scalable solutions. Fluent in English, Spanish, and Portuguese.
+🔹 Senior Full-Stack Engineer with 4+ years of specialized experience in enterprise software development and 10+ years in B2B environments. I lead technical transformations and build scalable solutions for Fortune 500 companies.
 
-## SKILLS
-**Expert:**
-- Core: ReactJS, NodeJS, JavaScript, TypeScript
-- Front-End: HTML5, CSS3, Redux, React Hooks
-- Back-End: ExpressJS, RESTful APIs, MongoDB, PostgreSQL
-- Cloud & DevOps: GCP, Git, Bitbucket, Azure DevOps, Docker, K8S
-- AI Tools: GitHub Copilot, ChatGPT, Claude, Ollama
+🚀 At Mtrix, I focus on:
+• Architecture modernization through microfrontends
+• Development of unified platform solutions
+• Integration of complex data processing systems
+• Analytics dashboards for major clients
 
-**Intermediate:**
-- Languages & Frameworks: Qlik, PySpark, Python, Go, Agile, Leadership
+💡 Key Achievements:
+• Led migration improving system performance by 30%
+• Reduced deployment time by 15% through CI/CD optimization
+• Increased system uptime to 98%
+• Mentored 6+ developers in modern JavaScript frameworks
+• Implemented solutions processing 10,000+ daily transactions
+• Created automated systems reducing error rates by 25%
 
-**Beginner:**
-- Languages & Frameworks: VueJS, AngularJS, .NET, C#, C++, Java
+🛠️ Technical Expertise:
+• Frontend: React.js, Next.js, TypeScript
+• Backend: Node.js, Express, GraphQL
+• Architecture: Microfrontends, Microservices
+• Cloud & DevOps: GCP, Azure DevOps, Docker
+• Integration: REST APIs, FTP, Batch Processing
 
-## LANGUAGES
-- English: Advanced (lived in Georgia, USA for 1 year)
-- Spanish: Advanced (lived in Bolivia and Peru for 1 year)
-- Portuguese: Native
+🌎 International Experience:
+Fluent in English (B2 certified), Spanish, and Portuguese, I work with global teams across the Americas and Europe. This multicultural experience enhances my ability to deliver solutions meeting international standards.
 
-## CONTINUOUS LEARNING
-- Pursuing advanced certifications in ReactJS and NodeJS ecosystems
-- Exploring AI integration in development workflows
+📈 Business Impact:
+I transform complex business requirements into scalable technical solutions. My focus extends beyond code – I'm passionate about delivering real business value through technology, whether optimizing operations, improving user experience, or enabling data-driven decision making.
+
+🤝 Leadership Philosophy:
+I believe in leading by example and fostering continuous learning. My approach combines technical expertise with strong communication skills to bridge business needs and technical implementation.
+
+🎯 Current Focus:
+Working on enterprise-scale applications emphasizing performance, scalability, and maintainable code. Particularly interested in modern architectural patterns and their practical business applications.
+
+Let's connect and discuss how we can leverage technology to solve complex business challenges!
+
+#SoftwareEngineering #WebDevelopment #TechnicalLeadership #FullStack
 
 <p align="left">
   <a href="https://skillicons.dev">
