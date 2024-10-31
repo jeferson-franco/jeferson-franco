@@ -2,44 +2,75 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish;Brazilian+Portuguese+native+speaker+;Scan+QR+Code;Add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
-🔹 Senior Full-Stack Engineer with 4+ years of specialized experience in enterprise software development and 10+ years in B2B environments. I lead technical transformations and build scalable solutions for Fortune 500 companies.
+# Senior Full-Stack Engineer
 
-🚀 At Mtrix, I focus on:
-• Architecture modernization through microfrontends
-• Development of unified platform solutions
-• Integration of complex data processing systems
-• Analytics dashboards for major clients
+**🔹 Experience:**  
+With over 4 years of specialized experience in enterprise software development and more than 10 years in B2B environments, I lead technical transformations and build scalable solutions for Fortune 500 companies.
 
-💡 Key Achievements:
-• Led migration improving system performance by 30%
-• Reduced deployment time by 15% through CI/CD optimization
-• Increased system uptime to 98%
-• Mentored 6+ developers in modern JavaScript frameworks
-• Implemented solutions processing 10,000+ daily transactions
-• Created automated systems reducing error rates by 25%
+---
 
-🛠️ Technical Expertise:
-• Frontend: React.js, Next.js, TypeScript
-• Backend: Node.js, Express, GraphQL
-• Architecture: Microfrontends, Microservices
-• Cloud & DevOps: GCP, Azure DevOps, Docker
-• Integration: REST APIs, FTP, Batch Processing
+## 🚀 Current Role at Mtrix
 
-🌎 International Experience:
-Fluent in English (B2 certified), Spanish, and Portuguese, I work with global teams across the Americas and Europe. This multicultural experience enhances my ability to deliver solutions meeting international standards.
+**Key Responsibilities:**
+- Architecture modernization through microfrontends
+- Development of unified platform solutions
+- Integration of complex data processing systems
+- Analytics dashboards for major clients
 
-📈 Business Impact:
+---
+
+## 💡 Key Achievements
+
+- Led migration efforts improving system performance by **30%**
+- Reduced deployment time by **15%** through CI/CD optimization
+- Increased system uptime to **98%**
+- Mentored **6+ developers** in modern JavaScript frameworks
+- Implemented solutions processing **10,000+ daily transactions**
+- Created automated systems reducing error rates by **25%**
+
+---
+
+## 🛠️ Technical Expertise
+
+- **Frontend:** React.js, Next.js, TypeScript
+- **Backend:** Node.js, Express, GraphQL
+- **Architecture:** Microfrontends, Microservices
+- **Cloud & DevOps:** GCP, Azure DevOps, Docker
+- **Integration:** REST APIs, FTP, Batch Processing
+
+---
+
+## 🌎 International Experience
+
+Fluent in **English** (B2 certified), **Spanish**, and **Portuguese**, I work with global teams across the Americas and Europe. This multicultural experience enables me to deliver solutions that meet international standards.
+
+---
+
+## 📈 Business Impact
+
 I transform complex business requirements into scalable technical solutions. My focus extends beyond code – I'm passionate about delivering real business value through technology, whether optimizing operations, improving user experience, or enabling data-driven decision making.
 
-🤝 Leadership Philosophy:
+---
+
+## 🤝 Leadership Philosophy
+
 I believe in leading by example and fostering continuous learning. My approach combines technical expertise with strong communication skills to bridge business needs and technical implementation.
 
-🎯 Current Focus:
-Working on enterprise-scale applications emphasizing performance, scalability, and maintainable code. Particularly interested in modern architectural patterns and their practical business applications.
+---
+
+## 🎯 Current Focus
+
+Currently, I'm working on enterprise-scale applications with an emphasis on performance, scalability, and maintainable code. I'm particularly interested in modern architectural patterns and their practical business applications.
+
+---
 
 Let's connect and discuss how we can leverage technology to solve complex business challenges!
 
-#SoftwareEngineering #WebDevelopment #TechnicalLeadership #FullStack
+---
+
+# Keywords
+
+`#SoftwareEngineering` `#WebDevelopment` `#TechnicalLeadership` `#FullStack`
 
 <p align="left">
   <a href="https://skillicons.dev">
