@@ -68,7 +68,7 @@ Let's connect and discuss how we can leverage technology to solve complex busine
 
 ---
 
-# Keywords
+## Keywords
 
 `#SoftwareEngineering` `#WebDevelopment` `#TechnicalLeadership` `#FullStack`
 
