@@ -64,27 +64,28 @@ Currently, I'm working on enterprise-scale applications with an emphasis on perf
 
 ---
 
-<div dir="auto">
-  <a href="https://www.linkedin.com/in/jefersonfranco/" alt="jefe-linkedin">
-    <img style="max-width: 100%;" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jefersonfranco/">
-  </a>
-</div>
-
-> Let's connect and discuss how we can leverage technology to solve complex business challenges!
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,kubernetes,materialui,nodejs,py,react,sass&perline=4&theme=light" alt="skill-icons" title="stack-icons"/>
-  </a>
-</p>
-
----
-
 ## VSCode WakaTime
 
 > WakaTime extension is useful for recording development time throughout different systems.
 
 ![Waka vscode](https://wakatime.com/share/@328ec2d1-7a5b-47b2-8ff2-1d3c2f9fa1a9/ae7a4b23-a486-4c32-9402-e4147d7dfac8.svg)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out to me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
+[![Email](https://img.shields.io/badge/Email-jefersonfranco%40protonmail.com-red?style=flat-square&logo=gmail)](mailto:jefersonfranco@protonmail.com)
+
+---
+
+<div align="center">
+
+*This document is continuously updated to reflect new developments and achievements.*
+
+</div>
 
 ---
 
