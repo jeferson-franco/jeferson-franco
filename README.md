@@ -4,65 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Brazilian+Portuguese+native+speaker;pet+lover;jiu-jitsu+fighter;add+me+on+LinkedIn;ReactJS)](https://github.com/jeferson-franco)
 
-# Senior Full-Stack Engineer
+# Senior Frontend & Full Stack Developer
 
-**🔹 Experience:**  
-With over 4 years of specialized experience in enterprise software development and more than 10 years in B2B environments, I lead technical transformations and build scalable solutions for Fortune 500 companies.
-
----
-
-## 🚀 Current Role at Mtrix
-
-**Key Responsibilities:**
-- Architecture modernization through microfrontends
-- Development of unified platform solutions
-- Integration of complex data processing systems
-- Analytics dashboards for major clients
-
----
-
-## 💡 Key Achievements
-
-- Led migration efforts improving system performance by **30%**
-- Reduced deployment time by **15%** through CI/CD optimization
-- Increased system uptime to **98%**
-- Mentored **6+ developers** in modern JavaScript frameworks
-- Implemented solutions processing **10,000+ daily transactions**
-- Created automated systems reducing error rates by **25%**
-
----
-
-## 🛠️ Technical Expertise
-
-- **Frontend:** React.js, Next.js, TypeScript
-- **Backend:** Node.js, Express, GraphQL
-- **Architecture:** Microfrontends, Microservices
-- **Cloud & DevOps:** GCP, Azure DevOps, Docker
-- **Integration:** REST APIs, FTP, Batch Processing
-
----
-
-## 🌎 International Experience
-
-Fluent in **English** (B2 certified), **Spanish**, and **Portuguese**, I work with global teams across the Americas and Europe. This multicultural experience enables me to deliver solutions that meet international standards.
-
----
-
-## 📈 Business Impact
-
-I transform complex business requirements into scalable technical solutions. My focus extends beyond code – I'm passionate about delivering real business value through technology, whether optimizing operations, improving user experience, or enabling data-driven decision making.
-
----
-
-## 🤝 Leadership Philosophy
-
-I believe in leading by example and fostering continuous learning. My approach combines technical expertise with strong communication skills to bridge business needs and technical implementation.
-
----
-
-## 🎯 Current Focus
-
-Currently, I'm working on enterprise-scale applications with an emphasis on performance, scalability, and maintainable code. I'm particularly interested in modern architectural patterns and their practical business applications.
+I’m a Frontend Developer specialized in Next.js, Tailwind CSS, and TypeScript, committed to creating solutions that deliver tangible business value. My genetics journey revealed that my paternal lineage traces back to northern Europe, reflecting centuries of migrations and adaptations across the continent, while my maternal lineage originates from Central and West Africa, eventually extending to the Americas. Alongside my ‘worrier-warrior’ profile and a predisposition for myopia, I bring a broad, inclusive perspective to product development. By embracing TDD, agile methodologies, and a results-oriented mindset, I consistently craft accessible and innovative solutions that balance high performance with genuine real-world impact.
 
 ---
 
@@ -93,4 +37,4 @@ Feel free to reach out to me:
 
 ## Keywords
 
-`#SoftwareEngineering` `#WebDevelopment` `#TechnicalLeadership` `#FullStack`
+`#SoftwareEngineering` `#WebDevelopment` `#Frontend` `#FullStack`
