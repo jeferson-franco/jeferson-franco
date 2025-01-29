@@ -1,8 +1,8 @@
 # Welcome to my Github
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Brazilian+Portuguese+native+speaker;pet+lover;jiu-jitsu+fighter;add+me+on+LinkedIn)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Brazilian+Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;add+me+on+LinkedIn)](https://github.com/jeferson-franco)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Brazilian+Portuguese+native+speaker;pet+lover;jiu-jitsu+fighter;add+me+on+LinkedIn;ReactJS)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Brazilian+Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;add+me+on+LinkedIn;ReactJS)](https://github.com/jeferson-franco)
 
 ## Who is Jeferson Franco? 🧑💻
 
