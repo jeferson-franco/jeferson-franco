@@ -50,9 +50,6 @@
 
 A strategic thinker who bridges business logic with technical execution! 🚀
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/46801502/2fa0aeac-a460-4c01-a313-3c96ec3f7b1d/jeferson-franco-developer.pdf
-
 ---
 
 ## VSCode WakaTime
