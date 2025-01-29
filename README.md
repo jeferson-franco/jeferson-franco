@@ -4,9 +4,54 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Brazilian+Portuguese+native+speaker;pet+lover;jiu-jitsu+fighter;add+me+on+LinkedIn;ReactJS)](https://github.com/jeferson-franco)
 
-# Senior Frontend & Full Stack Developer
+## Who is Jeferson Franco? 🧑💻
 
-I’m a Frontend Developer specialized in Next.js, Tailwind CSS, and TypeScript, committed to creating solutions that deliver tangible business value. My genetics journey revealed that my paternal lineage traces back to northern Europe, reflecting centuries of migrations and adaptations across the continent, while my maternal lineage originates from Central and West Africa, eventually extending to the Americas. Alongside my ‘worrier-warrior’ profile and a predisposition for myopia, I bring a broad, inclusive perspective to product development. By embracing TDD, agile methodologies, and a results-oriented mindset, I consistently craft accessible and innovative solutions that balance high performance with genuine real-world impact.
+### Key Identity
+- **Name**: Jeferson Franco  
+- **Current Role**: Senior Frontend & Full Stack Developer  
+- **Location**: São Paulo, Brazil  
+- **Certifications**: English C1, React/Next.js, Full Stack Development  
+- **Languages**: Portuguese (Native), English (C1), Spanish (Professional)  
+
+### Core Expertise 💡
+- **Main Stack**: React, React Native, Next.js, Vue.js, SvelteKit  
+- **DevOps Tools**: Docker, Azure DevOps, GCP  
+- **Testing**: Jest, Playwright (TDD advocate)  
+- **Specializations**: Micro-frontends, enterprise-grade applications, multilingual systems  
+
+### Career Highlights 🏆
+1. **Mtrix (2023–Present)**:  
+   - Modernized DevOps workflows (98% uptime)  
+   - Built micro-frontend platforms for Fortune 500 clients  
+   - Mentored frontend teams in React best practices  
+
+2. **Finance-to-Tech Transition**:  
+   - Former **Financial Advisor** at XP Inc. (Brazil's top investment firm)  
+   - Developed early coding skills via trading algorithms (Python/C++/MQL5)  
+
+3. **Impactful Projects**:  
+   - Reduced deployment time by 15% via containerization  
+   - Improved web app performance by 30% in enterprise solutions  
+
+### Unique Background 🔄
+- 12-year **Business Systems Analyst** foundation (2006–2018):  
+  - Optimized logistics systems for multinational corporations  
+  - Built tools used by 200+ team members  
+
+- Combines **financial expertise** (portfolio management, arbitrage strategies) with modern software development.  
+
+### Education & Growth 🎓
+- **Business Administration Degree** (UNIP, São Paulo)  
+- Self-taught developer with certifications in high-demand technologies  
+- Actively learning Kubernetes, Python, and advanced DevOps pipelines  
+
+**Portfolio**: [github.com/jefersonfranco](https://www.github.com/jefersonfranco)  
+**Contact**: jefersonfranco@protonmail.com | +55 11966200991  
+
+A strategic thinker who bridges business logic with technical execution! 🚀
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/46801502/2fa0aeac-a460-4c01-a313-3c96ec3f7b1d/jeferson-franco-developer.pdf
 
 ---
 
