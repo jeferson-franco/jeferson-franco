@@ -43,7 +43,7 @@ Backend solutions for document workflow automation, approval processes, and inte
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/franco-jeferson/)
 [![Email](https://img.shields.io/badge/Email-jefersonfranco%40protonmail.com-red?style=flat-square&logo=gmail)](mailto:jefersonfranco@protonmail.com)
 
 ## 🌱 Currently Learning
@@ -77,4 +77,4 @@ Backend solutions for document workflow automation, approval processes, and inte
 
 ## Keywords
 
-`#React` `#Node` `#JavaScript` `#Python` `#SoftwareEngineering` `#WebDevelopment` `#Frontend` `#FullStack`
+`#React` `#Node` `#JavaScript` `#Python` `#SoftwareEngineering` `#WebDevelopment` `#Frontend` `#FullStack` `#Remote` `#Latam` `#Contractor` `#FullTime`
