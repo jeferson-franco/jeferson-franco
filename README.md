@@ -1,54 +1,61 @@
-# Welcome to my Github
+# Hi, I'm Jeferson Franco 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;let's+connect+on+LinkedIn)](https://github.com/jeferson-franco)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;let's+connect+on+LinkedIn;ReactJS)](https://github.com/jeferson-franco)
 
-## Who is Jeferson Franco? 🧑💻
+Frontend Developer passionate about creating intuitive, data-driven web applications. Based in São Paulo, Brazil 🇧🇷
 
-### Key Identity
-- **Name**: Jeferson Franco  
-- **Current Role**: Senior Frontend & Full Stack Developer  
-- **Location**: São Paulo, Brazil  
-- **Certifications**: English C1, React/Next.js, Full Stack Development  
-- **Languages**: Portuguese (Native), English (C1), Spanish (Professional)  
+## 💻 What I Do
 
-### Core Expertise 💡
-- **Main Stack**: React, React Native, Next.js, Vue.js, SvelteKit  
-- **DevOps Tools**: Docker, Azure DevOps, GCP  
-- **Testing**: Jest, Playwright (TDD advocate)  
-- **Specializations**: Micro-frontends, enterprise-grade applications, multilingual systems  
+I specialize in building interactive dashboards and responsive web applications that help businesses visualize and act on their data. With 5+ years of experience in frontend development, I've created solutions for major brands like Nivea, Pepsico, and Reckitt that have directly contributed to business growth.
 
-### Career Highlights 🏆
-1. **Mtrix (2023–Present)**:  
-   - Modernized DevOps workflows (98% uptime)  
-   - Built micro-frontend platforms for Fortune 500 clients  
-   - Mentored frontend teams in React best practices  
+## 🛠️ Tech Stack
 
-2. **Finance-to-Tech Transition**:  
-   - Former **Financial Advisor** at XP Inc. (Brazil's top investment firm)  
-   - Developed early coding skills via trading algorithms (Python/C++/MQL5)  
+- **Frontend:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3, Next.js, Vue.js
+- **Styling:** Tailwind CSS, CSS Modules, Styled Components
+- **State Management:** Redux, Context API, Zustand
+- **Backend Knowledge:** Node.js, Express, RESTful APIs
+- **Data:** MongoDB, SQL basics
+- **Testing:** Jest, Playwright, React Testing Library
+- **Tools:** Git, Webpack, Vite, npm/yarn
 
-3. **Impactful Projects**:  
-   - Reduced deployment time by 15% via containerization  
-   - Improved web app performance by 30% in enterprise solutions  
+## 🌟 Featured Projects
 
-### Unique Background 🔄
-- 12-year **Business Systems Analyst** foundation (2006–2018):  
-  - Optimized logistics systems for multinational corporations  
-  - Built tools used by 200+ team members  
+### Data Visualization Dashboards
+Interactive business intelligence dashboards built with React that help major consumer brands track KPIs and make data-driven decisions. Features include:
+- Exportable charts and tables
+- Multi-language support
+- Cross-selling analysis with Venn diagrams
+- Real-time data filtering
 
-- Combines **financial expertise** (portfolio management, arbitrage strategies) with modern software development.  
+### E-commerce Solutions
+Responsive e-commerce websites with modern UI, optimized checkout flows, and inventory synchronization via API integration.
 
-### Education & Growth 🎓
-- **Business Administration Degree** (UNIP, São Paulo)  
-- Self-taught developer with certifications in high-demand technologies  
-- Actively learning Kubernetes, Python, and advanced DevOps pipelines  
+### Document Processing Systems
+Backend solutions for document workflow automation, approval processes, and intelligent data extraction.
 
-**Portfolio**: [github.com/jefersonfranco](https://www.github.com/jefersonfranco)  
-**Contact**: jefersonfranco@protonmail.com | +55 11966200991  
+## 📊 GitHub Stats
 
-A strategic thinker who bridges business logic with technical execution! 🚀
+[![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-franco&show_icons=true&theme=dracula)](https://github.com/jeferson-franco)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-franco&layout=compact&theme=dracula)](https://github.com/jeferson-franco)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
+[![Email](https://img.shields.io/badge/Email-jefersonfranco%40protonmail.com-red?style=flat-square&logo=gmail)](mailto:jefersonfranco@protonmail.com)
+
+## 🌱 Currently Learning
+
+- Advanced TypeScript patterns
+- React Server Components
+- Performance optimization techniques
+- Data visualization libraries
+
+---
+
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 ---
 
@@ -57,15 +64,6 @@ A strategic thinker who bridges business logic with technical execution! 🚀
 > WakaTime extension is useful for recording development time throughout different systems.
 
 ![Waka vscode](https://wakatime.com/share/@328ec2d1-7a5b-47b2-8ff2-1d3c2f9fa1a9/ae7a4b23-a486-4c32-9402-e4147d7dfac8.svg)
-
----
-
-## 📫 Contact
-
-Feel free to reach out to me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
-[![Email](https://img.shields.io/badge/Email-jefersonfranco%40protonmail.com-red?style=flat-square&logo=gmail)](mailto:jefersonfranco@protonmail.com)
 
 ---
 
@@ -79,4 +77,4 @@ Feel free to reach out to me:
 
 ## Keywords
 
-`#SoftwareEngineering` `#WebDevelopment` `#Frontend` `#FullStack`
+`#React` `#Node` `#JavaScript` `#Python` `#SoftwareEngineering` `#WebDevelopment` `#Frontend` `#FullStack`
