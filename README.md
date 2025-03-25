@@ -1,8 +1,8 @@
 # Hi, I'm Jeferson Franco 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;let's+connect+on+LinkedIn)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS;NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;let's+connect+on+LinkedIn)](https://github.com/francojeferson)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;let's+connect+on+LinkedIn;ReactJS)](https://github.com/jeferson-franco)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodeJS;Python;AI+and+LLM;English+and+Spanish+spokesperson;Portuguese+native+speaker;pet+lover;DeepSeek+fanboy;let's+connect+on+LinkedIn;ReactJS)](https://github.com/francojeferson)
 
 Frontend Developer passionate about creating intuitive, data-driven web applications. Based in São Paulo, Brazil 🇧🇷
 
@@ -37,14 +37,14 @@ Backend solutions for document workflow automation, approval processes, and inte
 
 ## 📊 GitHub Stats
 
-[![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-franco&show_icons=true&theme=dracula)](https://github.com/jeferson-franco)
+[![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=francojeferson&show_icons=true&theme=dracula)](https://github.com/francojeferson)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-franco&layout=compact&theme=dracula)](https://github.com/jeferson-franco)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francojeferson&layout=compact&theme=dracula)](https://github.com/francojeferson)
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/franco-jeferson/)
-[![Email](https://img.shields.io/badge/Email-jefersonfranco%40protonmail.com-red?style=flat-square&logo=gmail)](mailto:jefersonfranco@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
+[![Email](https://img.shields.io/badge/Email-jfranco.adm%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jfranco.adm@gmail.com)
 
 ## 🌱 Currently Learning
 
