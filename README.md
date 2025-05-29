@@ -35,11 +35,13 @@ Responsive e-commerce websites with modern UI, optimized checkout flows, and inv
 ### Document Processing Systems
 Backend solutions for document workflow automation, approval processes, and intelligent data extraction.
 
+<!--
 ## 📊 GitHub Stats
 
 [![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=francojeferson&show_icons=true&theme=dracula)](https://github.com/francojeferson)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francojeferson&layout=compact&theme=dracula)](https://github.com/francojeferson)
+-->
 
 ## 📫 Let's Connect
 
@@ -59,6 +61,7 @@ Backend solutions for document workflow automation, approval processes, and inte
 
 ---
 
+<!--
 ## VSCode WakaTime
 
 > WakaTime extension is useful for recording development time throughout different systems.
@@ -66,6 +69,7 @@ Backend solutions for document workflow automation, approval processes, and inte
 ![Waka vscode](https://wakatime.com/share/@328ec2d1-7a5b-47b2-8ff2-1d3c2f9fa1a9/ae7a4b23-a486-4c32-9402-e4147d7dfac8.svg)
 
 ---
+-->
 
 <div align="center">
 
