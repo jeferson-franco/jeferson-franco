@@ -46,8 +46,28 @@ jobs:
 
       - name: Update README.md with latest XKCD comic
         run: |
-          # Read the fetched comic info
-          IFS=$'\n' read -d '' -r img_src img_title img_alt < xkcd_info.txt
+          # Debug: Log the content of xkcd_info.txt
+          echo "Contents of xkcd_info.txt:"
+          cat xkcd_info.txt
+
+          # Check if xkcd_info.txt exists and has content
+          if [ ! -f xkcd_info.txt ] || [ ! -s xkcd_info.txt ]; then
+            echo "Error: xkcd_info.txt does not exist or is empty. Skipping README update."
+            exit 0
+          fi
+
+          # Read the fetched comic info with fallback values
+          IFS=$'\n' read -d '' -r img_src img_title img_alt < xkcd_info.txt || {
+            img_src="https://xkcd.com"
+            img_title="Unable to fetch description"
+            img_alt="XKCD Comic Placeholder"
+            echo "Warning: Failed to read comic info, using fallback values."
+          }
+
+          # Debug: Log the values read
+          echo "Image Source: $img_src"
+          echo "Image Title: $img_title"
+          echo "Image Alt: $img_alt"
 
           # Read the current README.md content
           if [ -f README.md ]; then
@@ -56,17 +76,20 @@ jobs:
             readme_content=''
           fi
 
-          # Check if 'Latest XKCD Comic' section exists
-          if echo "$readme_content" | grep -q '## Latest XKCD Comic'; then
-            # Replace the existing section
-            updated_content=$(echo "$readme_content" | sed -e 's|## Latest XKCD Comic.*|## Latest XKCD Comic\n\n![XKCD Comic]('$img_src')  \n**Title:** '$img_alt'  \n**Description:** '$img_title'  \n\n*Updated daily via GitHub Actions.*|')
+          # Check if 'Latest XKCD Comic' section exists using a more robust approach
+          if grep -q "^## Latest XKCD Comic" README.md; then
+            echo "Existing XKCD section found, replacing it."
+            # Use a temporary file to build the updated content
+            awk 'BEGIN {p=1} /^## Latest XKCD Comic/ {p=0; print "## Latest XKCD Comic\n\n![XKCD Comic]('"'"'$img_src'"'"')  \n**Title:** '"'"'$img_alt'"'"'  \n**Description:** '"'"'$img_title'"'"'  \n\n_Updated daily via GitHub Actions._"; next} p {print}' README.md > temp_readme.md
           else
-            # Append the section if it doesn't exist
-            updated_content="$readme_content\n\n## Latest XKCD Comic\n\n![XKCD Comic]('$img_src')  \n**Title:** '$img_alt'  \n**Description:** '$img_title'  \n\n*Updated daily via GitHub Actions.*"
+            echo "No XKCD section found, appending it."
+            # Append the new section
+            echo -e "$readme_content\n\n## Latest XKCD Comic\n\n![XKCD Comic]('$img_src')  \n**Title:** '$img_alt'  \n**Description:** '$img_title'  \n\n_Updated daily via GitHub Actions._" > temp_readme.md
           fi
 
           # Write the updated content back to README.md
-          echo "$updated_content" > README.md
+          mv temp_readme.md README.md
+          echo "README.md updated successfully."
 
       - name: Commit and push changes
         run: |
