@@ -100,8 +100,10 @@ jobs:
           git add README.md
           git commit -m 'chore(xkcd): update latest XKCD comic in README' || echo 'No changes to commit'
           if [ -n "$PAT_TOKEN" ]; then
-            git checkout -b xkcd-updates
-            git push https://$PAT_TOKEN@github.com/francojeferson/francojeferson.git xkcd-updates || echo 'Push failed, check token permissions'
+            # Create a unique branch name using timestamp
+            BRANCH_NAME="xkcd-updates-$(date +%Y%m%d-%H%M%S)"
+            git checkout -b $BRANCH_NAME
+            git push https://$PAT_TOKEN@github.com/francojeferson/francojeferson.git $BRANCH_NAME || echo 'Push failed, check token permissions'
           else
             echo 'PAT_TOKEN not set, skipping push. Please set up a personal access token as a secret.'
             exit 0
@@ -120,8 +122,9 @@ jobs:
             sudo apt update
             sudo apt install gh -y
 
-            # Create PR
-            gh pr create --base main --head xkcd-updates --title "Update XKCD Comic in README" --body "Automated update of the latest XKCD comic in README.md" || echo 'Failed to create PR, please check manually.'
+            # Create PR with the unique branch name
+            BRANCH_NAME="xkcd-updates-$(date +%Y%m%d-%H%M%S)"
+            gh pr create --base main --head $BRANCH_NAME --title "Update XKCD Comic in README" --body "Automated update of the latest XKCD comic in README.md" || echo 'Failed to create PR, please check manually.'
           else
             echo 'GITHUB_TOKEN not set, skipping PR creation. Please create a PR manually.'
           fi
