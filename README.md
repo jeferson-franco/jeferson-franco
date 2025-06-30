@@ -73,8 +73,8 @@
 
 ## Latest XKCD Comic
 
-![XKCD Comic](https://xkcd.com)  
-**Title:** Placeholder  
-**Description:** Placeholder description
+![XKCD Comic]('$img_src')  
+**Title:** '$img_alt'  
+**Description:** '$img_title'  
 
 _Updated daily via GitHub Actions._
