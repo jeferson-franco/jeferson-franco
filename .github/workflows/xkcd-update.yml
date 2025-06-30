@@ -92,9 +92,16 @@ jobs:
           echo "README.md updated successfully."
 
       - name: Commit and push changes
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add README.md
           git commit -m 'chore(xkcd): update latest XKCD comic in README' || echo 'No changes to commit'
-          git push origin main || echo 'No changes to push'
+          if [ -n "$PAT_TOKEN" ]; then
+            git push https://$PAT_TOKEN@github.com/francojeferson/francojeferson.git main || echo 'Push failed, check token permissions or branch protection rules'
+          else
+            echo 'PAT_TOKEN not set, skipping push. Please set up a personal access token as a secret.'
+            exit 0
+          fi
