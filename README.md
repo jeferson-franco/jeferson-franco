@@ -70,3 +70,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
 [![Email](https://img.shields.io/badge/Email-jfranco.adm%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jfranco.adm@gmail.com)
+
+## Latest XKCD Comic
+
+![XKCD Comic](https://xkcd.com)  
+**Title:** Placeholder  
+**Description:** Placeholder description
+
+_Updated daily via GitHub Actions._

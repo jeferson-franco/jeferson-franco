@@ -1,0 +1,77 @@
+name: Update XKCD Comic in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every 24 hours at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-xkcd-comic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Fetch latest XKCD comic
+        run: |
+          python -c "
+          import requests
+          from bs4 import BeautifulSoup
+          import re
+
+          response = requests.get('https://xkcd.com')
+          soup = BeautifulSoup(response.text, 'html.parser')
+          comic_div = soup.find('div', id='comic')
+          img_tag = comic_div.find('img')
+          img_src = img_tag['src'] if img_tag else ''
+          img_title = img_tag['title'] if img_tag else ''
+          img_alt = img_tag['alt'] if img_tag else ''
+
+          if img_src.startswith('//'):
+            img_src = 'https:' + img_src
+
+          with open('xkcd_info.txt', 'w') as f:
+            f.write(f'{img_src}\n{img_title}\n{img_alt}')
+          "
+
+      - name: Update README.md with latest XKCD comic
+        run: |
+          # Read the fetched comic info
+          IFS=$'\n' read -d '' -r img_src img_title img_alt < xkcd_info.txt
+
+          # Read the current README.md content
+          if [ -f README.md ]; then
+            readme_content=$(cat README.md)
+          else
+            readme_content=''
+          fi
+
+          # Check if 'Latest XKCD Comic' section exists
+          if echo "$readme_content" | grep -q '## Latest XKCD Comic'; then
+            # Replace the existing section
+            updated_content=$(echo "$readme_content" | sed -e 's|## Latest XKCD Comic.*|## Latest XKCD Comic\n\n![XKCD Comic]('$img_src')  \n**Title:** '$img_alt'  \n**Description:** '$img_title'  \n\n*Updated daily via GitHub Actions.*|')
+          else
+            # Append the section if it doesn't exist
+            updated_content="$readme_content\n\n## Latest XKCD Comic\n\n![XKCD Comic]('$img_src')  \n**Title:** '$img_alt'  \n**Description:** '$img_title'  \n\n*Updated daily via GitHub Actions.*"
+          fi
+
+          # Write the updated content back to README.md
+          echo "$updated_content" > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
+          git add README.md
+          git commit -m 'chore(xkcd): update latest XKCD comic in README' || echo 'No changes to commit'
+          git push origin main || echo 'No changes to push'
