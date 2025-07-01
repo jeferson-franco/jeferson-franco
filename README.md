@@ -70,3 +70,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
 [![Email](https://img.shields.io/badge/Email-jfranco.adm%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jfranco.adm@gmail.com)
+
+## Latest Explosm Cartoon
+
+![Latest Explosm Cartoon](latest_explosm_cartoon.jpg)
+
+_Warning: May cause unexpected bursts of laughter or existential dread—Cyanide & Happiness style!_
