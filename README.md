@@ -69,7 +69,8 @@
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jefersonfranco-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jefersonfranco/)
-[![Email](https://img.shields.io/badge/Email-jfranco.adm%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jfranco.adm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jefersonfranco%40pm.me-gray?style=flat-square&logo=protonmail)](mailto:jefersonfranco@pm.me)
+[![Meet](https://img.shields.io/badge/Meet-jfranco.adm%40gmail.com-red?style=flat-square&logo=googlemeet)](mailto:jfranco.adm@gmail.com)
 
 ## Latest PBF Cartoon
 
